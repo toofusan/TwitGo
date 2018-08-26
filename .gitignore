@@ -50,5 +50,6 @@ sysinfo.txt
 *.bin
 
 Assets/Scripts/Config/
+Assets/Oculus/
 Assets/Scripts/twitter-for-unity/
 Temp/*
