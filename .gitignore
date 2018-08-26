@@ -15,6 +15,8 @@ ehthumbs.db
 
 # Visual Studio / MonoDevelop generated
 # =====================================
+/.vs/
+.consulo/
 [Ee]xported[Oo]bj/
 *.userprefs
 *.csproj
@@ -24,18 +26,27 @@ ehthumbs.db
 *.user
 *.unityproj
 *.booproj
+*.svd
+*.pdb
 
 # Unity generated
 # ===============
-[Oo]bj/
-[Bb]uild
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
 sysinfo.txt
 *.stackdump
+*.pidb.meta
 
 # Other
 # ===============
 *.apk
 *.unitypackage
+*.bin
 
-Assets/Scripts/Config/*
+Assets/Scripts/Config/
+Assets/Scripts/twitter-for-unity/
 Temp/*
