@@ -22,7 +22,7 @@ public class GlobalConfig : MonoBehaviour {
 
 	public const float UIScale = 0.003f;
 
-	public string myTwitterScreenName = UserConfig.twitterScreenName;
+	string myTwitterScreenName = UserConfig.twitterScreenName;
 	public static TweetUser myTwitterInfo { get; set;}
 
 	// ==============================
