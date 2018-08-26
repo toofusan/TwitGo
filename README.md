@@ -1,5 +1,7 @@
 # Prototype for Twitter Client for Oculus Go
 
+※ 試したら全然動かなかったので調整します
+
 Unityがあればこういうのができます。自分用に作っていたので他の人からすると変な可能性大ですごめんなさい。
 https://twitter.com/toofu__/status/1028836485196214273
 
