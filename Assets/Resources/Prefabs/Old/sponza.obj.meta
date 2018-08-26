@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 9fd9d12f048ffee46a3eb3175447b51e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arcs_01
+    100002: arcs_02
+    100004: arcs_03
+    100006: arcs_04
+    100008: arcs_floo0
+    100010: arcs_floor
+    100012: arcs_long
+    100014: arcs_small
+    100016: ceiling
+    100018: doors
+    100020: holes
+    100022: object19
+    100024: object21
+    100026: object23
+    100028: object27
+    100030: object28
+    100032: object3
+    100034: object31
+    100036: object32
+    100038: object4
+    100040: object5
+    100042: object6
+    100044: outside01
+    100046: parapet
+    100048: pillar_cor
+    100050: pillar_flo
+    100052: pillar_qua
+    100054: pillar_rou
+    100056: puillar_fl
+    100058: relief
+    100060: round_hole
+    100062: //RootNode
+    100064: walls
+    100066: windows
+    400000: arcs_01
+    400002: arcs_02
+    400004: arcs_03
+    400006: arcs_04
+    400008: arcs_floo0
+    400010: arcs_floor
+    400012: arcs_long
+    400014: arcs_small
+    400016: ceiling
+    400018: doors
+    400020: holes
+    400022: object19
+    400024: object21
+    400026: object23
+    400028: object27
+    400030: object28
+    400032: object3
+    400034: object31
+    400036: object32
+    400038: object4
+    400040: object5
+    400042: object6
+    400044: outside01
+    400046: parapet
+    400048: pillar_cor
+    400050: pillar_flo
+    400052: pillar_qua
+    400054: pillar_rou
+    400056: puillar_fl
+    400058: relief
+    400060: round_hole
+    400062: //RootNode
+    400064: walls
+    400066: windows
+    2300000: arcs_01
+    2300002: arcs_02
+    2300004: arcs_03
+    2300006: arcs_04
+    2300008: arcs_floo0
+    2300010: arcs_floor
+    2300012: arcs_long
+    2300014: arcs_small
+    2300016: ceiling
+    2300018: doors
+    2300020: holes
+    2300022: object19
+    2300024: object21
+    2300026: object23
+    2300028: object27
+    2300030: object28
+    2300032: object3
+    2300034: object31
+    2300036: object32
+    2300038: object4
+    2300040: object5
+    2300042: object6
+    2300044: outside01
+    2300046: parapet
+    2300048: pillar_cor
+    2300050: pillar_flo
+    2300052: pillar_qua
+    2300054: pillar_rou
+    2300056: puillar_fl
+    2300058: relief
+    2300060: round_hole
+    2300062: walls
+    2300064: windows
+    3300000: arcs_01
+    3300002: arcs_02
+    3300004: arcs_03
+    3300006: arcs_04
+    3300008: arcs_floo0
+    3300010: arcs_floor
+    3300012: arcs_long
+    3300014: arcs_small
+    3300016: ceiling
+    3300018: doors
+    3300020: holes
+    3300022: object19
+    3300024: object21
+    3300026: object23
+    3300028: object27
+    3300030: object28
+    3300032: object3
+    3300034: object31
+    3300036: object32
+    3300038: object4
+    3300040: object5
+    3300042: object6
+    3300044: outside01
+    3300046: parapet
+    3300048: pillar_cor
+    3300050: pillar_flo
+    3300052: pillar_qua
+    3300054: pillar_rou
+    3300056: puillar_fl
+    3300058: relief
+    3300060: round_hole
+    3300062: walls
+    3300064: windows
+    4300000: arcs_01
+    4300002: arcs_02
+    4300004: arcs_03
+    4300006: arcs_04
+    4300008: arcs_floo0
+    4300010: arcs_floor
+    4300012: arcs_long
+    4300014: arcs_small
+    4300016: ceiling
+    4300018: doors
+    4300020: holes
+    4300022: object19
+    4300024: object21
+    4300026: object23
+    4300028: object27
+    4300030: object28
+    4300032: object3
+    4300034: object31
+    4300036: object32
+    4300038: object4
+    4300040: object5
+    4300042: object6
+    4300044: outside01
+    4300046: parapet
+    4300048: pillar_cor
+    4300050: pillar_flo
+    4300052: pillar_qua
+    4300054: pillar_rou
+    4300056: puillar_fl
+    4300058: relief
+    4300060: round_hole
+    4300062: walls
+    4300064: windows
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_01Mat
+    second: {fileID: 2100000, guid: 90593fdc3a493d5428c9bc00394417e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_02Mat
+    second: {fileID: 2100000, guid: 5e26c3ad6f5e63d49a2c7a303801ce0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_03Mat
+    second: {fileID: 2100000, guid: 4b3522791172d604c89bb9ea8b7de51e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_04Mat
+    second: {fileID: 2100000, guid: 64ce5d223bdd8654bb5e15ff68ac827a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_floo0Mat
+    second: {fileID: 2100000, guid: ee356a0b3183de042b397c4abe889fe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_floorMat
+    second: {fileID: 2100000, guid: 6bed657b85e28c646a2e8c5e5b02319f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_longMat
+    second: {fileID: 2100000, guid: cf54f4344c680ad4c9d349ce5f17879e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arcs_smallMat
+    second: {fileID: 2100000, guid: 7e130125d86fd6a47b64d507e0216be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceilingMat
+    second: {fileID: 2100000, guid: 7f475a79cd366f3488e93acaf536dee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorsMat
+    second: {fileID: 2100000, guid: ac3f92752db9d4e479738dcc367cde51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: holesMat
+    second: {fileID: 2100000, guid: 6fa82bf6d634c474fa87e72eec4757fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object19Mat
+    second: {fileID: 2100000, guid: 4202d95a183857845959fcaffb0316e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object21Mat
+    second: {fileID: 2100000, guid: 827a67c1dfbd83c48be95e098fc7b3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object23Mat
+    second: {fileID: 2100000, guid: 367174c7321925048a4f6af53a64888c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object27Mat
+    second: {fileID: 2100000, guid: f7e8c0d4844606740b4b3aeb23782f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object28Mat
+    second: {fileID: 2100000, guid: ae00d7d2056b5d8498c5b544d49ef49b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object31Mat
+    second: {fileID: 2100000, guid: 56b392766d9aede4ebd957360ffddbc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object32Mat
+    second: {fileID: 2100000, guid: 089cdeb2db4ad484587a5b683ab466b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object3Mat
+    second: {fileID: 2100000, guid: 7e77ae57fdd671a4789c51dd04ac1108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object4Mat
+    second: {fileID: 2100000, guid: f2fefdc5b715d6a428c07f8f12765136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object5Mat
+    second: {fileID: 2100000, guid: b430d98c5c8b9f343a79985daf905def, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object6Mat
+    second: {fileID: 2100000, guid: 49884522f95da074f8c03ef97552d42a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: outside01Mat
+    second: {fileID: 2100000, guid: 67f05060cf5c5b94a8c8909a742a647f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parapetMat
+    second: {fileID: 2100000, guid: a500c8a96b24ff14482289614c5ff5d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_corMat
+    second: {fileID: 2100000, guid: fbb6a239502cea940a62d1f83bd4b995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_floMat
+    second: {fileID: 2100000, guid: 58d7b29c019bff540ac00f4498c2dfa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_quaMat
+    second: {fileID: 2100000, guid: 9fe0f2509685d614191b736387b443c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_rouMat
+    second: {fileID: 2100000, guid: 9213dfd2327ee1f43add4e97e39c2fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: puillar_flMat
+    second: {fileID: 2100000, guid: 8d782c7f2155ee64591f2d771c5d06b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reliefMat
+    second: {fileID: 2100000, guid: e74e9733c50e5204283e150e7aa7a041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: round_holeMat
+    second: {fileID: 2100000, guid: 04191d915dec49c489f1cb30d2c27ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallsMat
+    second: {fileID: 2100000, guid: 7814dd7891e337c438bf95ec85774457, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowsMat
+    second: {fileID: 2100000, guid: 2ae1563a7d6f931418b209e9c02949a1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
