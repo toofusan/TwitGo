@@ -1,7 +1,5 @@
 # Prototype for Twitter Client for Oculus Go
 
-※ 試したら全然動かなかったので調整します
-
 Unityがあればこういうのができます。自分用に作っていたので他の人からすると変な可能性大ですごめんなさい。
 https://twitter.com/toofu__/status/1028836485196214273
 
@@ -22,7 +20,8 @@ public class UserConfig
   public static string twitterScreenName = "ツイッターID";
 }
 ```
-5. Oculus Goにビルドする（[参考](https://framesynthesis.jp/tech/unity/oculusgo/)）
+5. `main.unity`を開く
+6. Oculus Goにビルドする（[参考](https://framesynthesis.jp/tech/unity/oculusgo/)）
 
 ## 操作方法
 - いわゆる人差し指のPrimaryIndexTriggerを押して操作します
