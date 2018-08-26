@@ -3,6 +3,8 @@
 Unityがあればこういうのができます。自分用に作っていたので他の人からすると変な可能性大ですごめんなさい。
 https://twitter.com/toofu__/status/1028836485196214273
 
+確認環境は`Unity2017.4.2f`です
+
 ## 使い方
 1. このリポジトリをいい具合にcloneにしてUnityプロジェクトとして扱う
 2. Oculus IntegrationをAsset Storeからインポートする
