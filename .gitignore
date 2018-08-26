@@ -41,7 +41,6 @@ ehthumbs.db
 sysinfo.txt
 *.stackdump
 *.pidb.meta
-*.meta
 
 # Other
 # ===============
@@ -52,4 +51,6 @@ sysinfo.txt
 Assets/Scripts/Config/
 Assets/Oculus/
 Assets/Scripts/twitter-for-unity/
+Assets/Scripts/Twity/
+Assets/Scripts/Twity-master/
 Temp/*
